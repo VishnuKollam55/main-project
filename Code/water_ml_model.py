@@ -35,3 +35,4 @@ plt.ylabel("Water Quality Index")
 plt.title("Water Quality Prediction")
 plt.legend()
 plt.show()
+hlo
