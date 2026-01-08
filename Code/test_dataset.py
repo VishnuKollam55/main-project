@@ -14,4 +14,3 @@ print(water.head())
 
 print("\nNoise Level Data:")
 print(noise.head())
-options
